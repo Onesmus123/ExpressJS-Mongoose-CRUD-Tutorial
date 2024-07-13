@@ -2,11 +2,16 @@ Contact Management API with MongoDB and Mongoose.
 This project implements a RESTful API for managing contacts using Node.js, Express, MongoDB, and Mongoose.
 
 
-Features
+Features:
+
 Create Contact: Add a new contact with validation for first name, last name, and unique email address.
+
 Read Contacts: Retrieve all contacts or a specific contact by ID.
+
 Update Contact: Modify an existing contact's information.
+
 Delete Contact: Remove a contact from the database.
+
 Search Contacts: Find contacts by first name, last name, or email address using regex search.
 
 Setup:
